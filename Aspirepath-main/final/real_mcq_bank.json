@@ -1,0 +1,242 @@
+[
+    {
+        "id": "python_1",
+        "question": "What is the output of: print(type([]))?",
+        "options": [
+            "<class 'list'>",
+            "<class 'dict'>",
+            "<class 'tuple'>",
+            "<class 'set'>"
+        ],
+        "answer": "<class 'list'>",
+        "skill": "Python"
+    },
+    {
+        "id": "python_2",
+        "question": "Which of the following is used to define a function in Python?",
+        "options": [
+            "function",
+            "def",
+            "func",
+            "define"
+        ],
+        "answer": "def",
+        "skill": "Python"
+    },
+    {
+        "id": "sql_1",
+        "question": "Which SQL clause is used to filter records?",
+        "options": [
+            "ORDER BY",
+            "WHERE",
+            "GROUP BY",
+            "HAVING"
+        ],
+        "answer": "WHERE",
+        "skill": "SQL"
+    },
+    {
+        "id": "sql_2",
+        "question": "Which keyword is used to remove duplicate records in SQL?",
+        "options": [
+            "DISTINCT",
+            "UNIQUE",
+            "REMOVE",
+            "DELETE"
+        ],
+        "answer": "DISTINCT",
+        "skill": "SQL"
+    },
+    {
+        "id": "ds_1",
+        "question": "Which data structure uses LIFO (Last In First Out)?",
+        "options": [
+            "Queue",
+            "Array",
+            "Stack",
+            "Linked List"
+        ],
+        "answer": "Stack",
+        "skill": "Data Structures"
+    },
+    {
+        "id": "ds_2",
+        "question": "Which of the following is a non-linear data structure?",
+        "options": [
+            "Array",
+            "Linked List",
+            "Stack",
+            "Tree"
+        ],
+        "answer": "Tree",
+        "skill": "Data Structures"
+    },
+    {
+        "id": "algo_1",
+        "question": "Which algorithm is used for finding the shortest path in a graph?",
+        "options": [
+            "Prim's",
+            "Kruskal's",
+            "Dijkstra's",
+            "DFS"
+        ],
+        "answer": "Dijkstra's",
+        "skill": "Algorithms"
+    },
+    {
+        "id": "algo_2",
+        "question": "What is the time complexity of binary search?",
+        "options": [
+            "O(n)",
+            "O(n log n)",
+            "O(log n)",
+            "O(1)"
+        ],
+        "answer": "O(log n)",
+        "skill": "Algorithms"
+    },
+    {
+        "id": "oop_1",
+        "question": "Which of the following is not a principle of OOP?",
+        "options": [
+            "Encapsulation",
+            "Polymorphism",
+            "Recursion",
+            "Inheritance"
+        ],
+        "answer": "Recursion",
+        "skill": "OOP"
+    },
+    {
+        "id": "oop_2",
+        "question": "What is it called when an object has multiple forms?",
+        "options": [
+            "Inheritance",
+            "Abstraction",
+            "Encapsulation",
+            "Polymorphism"
+        ],
+        "answer": "Polymorphism",
+        "skill": "OOP"
+    },
+    {
+        "id": "os_1",
+        "question": "Which of these is responsible for memory management?",
+        "options": [
+            "Compiler",
+            "Loader",
+            "Operating System",
+            "Linker"
+        ],
+        "answer": "Operating System",
+        "skill": "Operating Systems"
+    },
+    {
+        "id": "os_2",
+        "question": "What is a deadlock?",
+        "options": [
+            "Multiple processes running",
+            "Infinite loop",
+            "Two processes waiting for each other",
+            "A crashed system"
+        ],
+        "answer": "Two processes waiting for each other",
+        "skill": "Operating Systems"
+    },
+    {
+        "id": "networks_1",
+        "question": "What does HTTP stand for?",
+        "options": [
+            "HyperText Transfer Protocol",
+            "HighText Transfer Protocol",
+            "Hyper Transfer Text Protocol",
+            "High Transfer Text Protocol"
+        ],
+        "answer": "HyperText Transfer Protocol",
+        "skill": "Networking"
+    },
+    {
+        "id": "networks_2",
+        "question": "Which layer of the OSI model does IP operate on?",
+        "options": [
+            "Transport",
+            "Application",
+            "Network",
+            "Data Link"
+        ],
+        "answer": "Network",
+        "skill": "Networking"
+    },
+    {
+        "id": "db_1",
+        "question": "Which of these is a NoSQL database?",
+        "options": [
+            "MySQL",
+            "MongoDB",
+            "Oracle",
+            "PostgreSQL"
+        ],
+        "answer": "MongoDB",
+        "skill": "Databases"
+    },
+    {
+        "id": "db_2",
+        "question": "What does ACID stand for in databases?",
+        "options": [
+            "Atomicity, Consistency, Isolation, Durability",
+            "Accuracy, Consistency, Isolation, Durability",
+            "Atomicity, Clarity, Isolation, Dependency",
+            "Atomicity, Consistency, Integration, Durability"
+        ],
+        "answer": "Atomicity, Consistency, Isolation, Durability",
+        "skill": "Databases"
+    },
+    {
+        "id": "web_1",
+        "question": "Which language is used to style web pages?",
+        "options": [
+            "HTML",
+            "JQuery",
+            "CSS",
+            "XML"
+        ],
+        "answer": "CSS",
+        "skill": "Web Development"
+    },
+    {
+        "id": "web_2",
+        "question": "Which HTML tag is used to create a hyperlink?",
+        "options": [
+            "<a>",
+            "<link>",
+            "<href>",
+            "<hyper>"
+        ],
+        "answer": "<a>",
+        "skill": "Web Development"
+    },
+    {
+        "id": "ml_1",
+        "question": "Which of these is a supervised learning algorithm?",
+        "options": [
+            "K-Means",
+            "Linear Regression",
+            "PCA",
+            "Apriori"
+        ],
+        "answer": "Linear Regression",
+        "skill": "Machine Learning"
+    },
+    {
+        "id": "ml_2",
+        "question": "Which library is used in Python for machine learning?",
+        "options": [
+            "Matplotlib",
+            "Pandas",
+            "NumPy",
+            "Scikit-learn"
+        ],
+        "answer": "Scikit-learn",
+        "skill": "Machine Learning"
+    }
+]
